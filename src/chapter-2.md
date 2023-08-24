@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Small Business Forecasting
-=====================================================================
 
 AI technology can be a game-changer for small business forecasting. This chapter will cover the basics of AI algorithms and how they can be used to enhance small business prediction accuracy.
 

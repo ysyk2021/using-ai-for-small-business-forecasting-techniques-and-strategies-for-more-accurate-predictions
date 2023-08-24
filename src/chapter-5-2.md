@@ -1,5 +1,3 @@
-Anticipating Future Opportunities and Threats with AI-Enabled Strategic Planning and Scenario Analysis
-===============================================================================================================================================================
 
 Small businesses need to be able to anticipate future opportunities and threats to stay competitive in an ever-changing business landscape. AI-enabled strategic planning and scenario analysis can help small businesses identify potential risks and opportunities, prepare for potential challenges, and adapt to changing circumstances.
 

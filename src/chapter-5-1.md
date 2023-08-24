@@ -1,5 +1,3 @@
-Evaluating Risk and Uncertainty with AI-Enabled Risk Management and Decision Support
-=============================================================================================================================================
 
 Small businesses face numerous risks and uncertainties that can impact their forecasting accuracy. By leveraging AI-enabled risk management and decision support tools, organizations can evaluate risk and uncertainty more accurately and make more informed decisions.
 
