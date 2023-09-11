@@ -1,5 +1,4 @@
-Chapter 9: Anticipating Future Opportunities and Threats with AI-Enabled Strategic Planning and Scenario Analysis
-=================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the powerful role that artificial intelligence (AI) plays in helping small businesses anticipate future opportunities and threats through strategic planning and scenario analysis.
 

@@ -1,5 +1,4 @@
-Chapter 3: Forecasting Sales and Revenue with AI-Enabled Machine Learning Algorithms
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the powerful world of artificial intelligence (AI) and machine learning algorithms, exploring how they can significantly improve sales and revenue forecasting for small businesses.
 

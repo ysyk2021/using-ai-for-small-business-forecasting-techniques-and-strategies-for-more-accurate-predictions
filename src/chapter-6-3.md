@@ -1,5 +1,4 @@
-Chapter 6: Increasing Competitive Advantage and Business Resilience with AI-Enabled Forecasting Strategies
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how small businesses can gain a competitive edge and enhance their resilience by leveraging AI-enabled forecasting techniques and strategies.
 

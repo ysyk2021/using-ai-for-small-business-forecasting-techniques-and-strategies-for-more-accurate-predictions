@@ -1,5 +1,4 @@
-Chapter 8: Measuring the ROI and Effectiveness of AI Implementation in Small Business Practice
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial aspects of measuring the Return on Investment (ROI) and the overall effectiveness of implementing artificial intelligence (AI) in small business operations and forecasting.
 

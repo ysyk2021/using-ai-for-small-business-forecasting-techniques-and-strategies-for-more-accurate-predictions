@@ -1,5 +1,4 @@
-Chapter 4: Selecting the Right AI Tools and Platforms for Your Small Business Needs
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical process of selecting the most suitable AI tools and platforms tailored to the specific needs of your small business for accurate forecasting.
 

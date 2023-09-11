@@ -1,5 +1,4 @@
-Chapter 7: Evaluating Risk and Uncertainty with AI-Enabled Risk Management and Decision Support
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role that artificial intelligence (AI) plays in helping small businesses evaluate and manage risks and uncertainties through advanced risk management techniques and decision support systems.
 
